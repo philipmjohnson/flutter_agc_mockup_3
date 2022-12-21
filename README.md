@@ -1,6 +1,11 @@
 # Flutter mockup of the Agile Garden Club app
 
-This repository contains the first increment of work on a mockup of the [Agile Garden Club](https://agilegardenclub.com) application. It contains around a dozen pages along with simple navigation. 
+This repository contains the third increment of work on a mockup of the [Agile Garden Club](https://agilegardenclub.com) application. 
+
+The main changes in this version are:
+
+* The use of Riverpod for state management. The data model entities are now accessed using Providers.
+* The ability to add and edit garden data using the Add Garden and Edit Garden pages. 
 
 ## Screen shots 
 
@@ -38,6 +43,14 @@ Click on any screen shot to see it full-size.
   <img src="./README-screenshots/chapters.png" width="30%">
 </p>
 
+### Add Garden and Edit Garden
+
+<p style="text-align: center">
+  <img src="./README-screenshots/add-garden.png" width="30%">
+&nbsp; &nbsp; 
+  <img src="./README-screenshots/edit-garden.png" width="30%">
+</p>
+
 ### Outcomes, Seeds, Members pages
 
 <p style="text-align: center">
@@ -57,9 +70,9 @@ Click on any screen shot to see it full-size.
 ### Help
 
 <p style="text-align: center">
-  <img src="./README-screenshots/help.png" width="45%">
+  <img src="./README-screenshots/help.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./README-screenshots/help-local.png" width="45%">
+  <img src="./README-screenshots/help-local.png" width="30%">
 </p>
 
 
