@@ -1,4 +1,4 @@
-# Flutter mockup of the Agile Garden Club app
+# Flutter mockup of the Agile Garden Club app (Phase 3)
 
 This repository contains the third increment of work on a mockup of the [Agile Garden Club](https://agilegardenclub.com) application. 
 
