@@ -18,61 +18,61 @@ Click on any screen shot to see it full-size.
 <p style="text-align: center">
   <img src="./README-screenshots/splash.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./signin.png" width="30%">
+  <img src="./README-screenshots/signin.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./signup.png" width="30%">
+  <img src="./README-screenshots/signup.png" width="30%">
 </p>
 
 ### Home page: My News, My Gardens, My Discussions
 
 <p style="text-align: center">
-  <img src="./home-my-news.png" width="30%">
+  <img src="./README-screenshots/home-my-news.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./home-my-gardens.png" width="30%">
+  <img src="./README-screenshots/home-my-gardens.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./home-my-discussions.png" width="30%">
+  <img src="./README-screenshots/home-my-discussions.png" width="30%">
 </p>
 
 ### Navigation Drawer, Gardens, and Chapters pages
 
 <p style="text-align: center">
-  <img src="./drawer.png" width="30%">
+  <img src="./README-screenshots/drawer.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./gardens.png" width="30%">
+  <img src="./README-screenshots/gardens.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./chapters.png" width="30%">
+  <img src="./README-screenshots/chapters.png" width="30%">
 </p>
 
 ### Add Garden and Edit Garden
 
 <p style="text-align: center">
-  <img src="./add-garden.png" width="30%">
+  <img src="./README-screenshots/add-garden.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./edit-garden.png" width="30%">
+  <img src="./README-screenshots/edit-garden.png" width="30%">
 </p>
 
 ### Outcomes, Seeds, Members pages
 
 <p style="text-align: center">
-  <img src="./outcomes.png" width="30%">
+  <img src="./README-screenshots/outcomes.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./seeds.png" width="30%">
+  <img src="./README-screenshots/seeds.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./members.png" width="30%">
+  <img src="./README-screenshots/members.png" width="30%">
 </p>
 
 ### Discussions page
 
 <p style="text-align: center">
-  <img src="./discussions.png" width="30%">
+  <img src="./README-screenshots/discussions.png" width="30%">
 </p>
 
 ### Help
 
 <p style="text-align: center">
-  <img src="./help.png" width="30%">
+  <img src="./README-screenshots/help.png" width="30%">
 &nbsp; &nbsp; 
-  <img src="./help-local.png" width="30%">
+  <img src="./README-screenshots/help-local.png" width="30%">
 </p>
 
 
